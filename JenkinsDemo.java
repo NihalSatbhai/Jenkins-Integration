@@ -3,6 +3,6 @@ public class JenkinsDemo {
         for (int i=1;i<=10;i++){
             System.out.println("Hello " + i);
         }
-        System.out.println("End of the program!");
+        System.out.println("End of the program!!");
     }
 }
